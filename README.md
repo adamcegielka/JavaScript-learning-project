@@ -107,6 +107,8 @@ README.md
   },
 ```
 
+
+
 ## Tutorials
 
 - [w3schools](https://my-learning.w3schools.com/tutorial/js)
@@ -115,7 +117,8 @@ README.md
 - [What is JavaScript - YouTube](https://www.youtube.com/watch?v=upDLs1sn7g4&list=PLTjRvDozrdlxEIuOBZkMAK5uiqp8rHUax&index=1)
 - [JavaScript Full Course for free - YouTube](https://www.youtube.com/watch?v=8dWL3wF_OMw)
 - [Modern JavaScript Tutorial - YouTube](https://www.youtube.com/watch?v=iWOYAxlnaww&list=PL4cUxeGkcC9haFPT7J25Q9GRB_ZkFrQAc)
-- [JavaScript Unit Testing, The Practical Guide - Udemy](https://www.udemy.com/course/javascript-unit-testing-the-practical-guide/)  
+- [JavaScript Unit Testing, The Practical Guide - Udemy](https://www.udemy.com/course/javascript-unit-testing-the-practical-guide/)
+- [Repository for the Linkedin Learning course: JavaScript Essential Training - GitHub](https://github.com/LinkedInLearning/javascript-essential-training-2832077)
   
 <br>
 
@@ -127,12 +130,16 @@ README.md
 - :poland: [Praktyczny kurs JavaScript od podstaw - Udemy](https://www.udemy.com/course/praktyczny-kurs-javascript/)
 - :poland: [10 projektów w czystym JavaScript - Udemy](https://www.udemy.com/course/10-projektow-w-czystym-javascript-cz-1/learn/lecture/18119975?start=0#overview)
 
+<br>
+
+- :poland: [ESLint, Prettier i VS Code - YouTube](https://www.youtube.com/watch?v=u2yUxhzpht4)
+- :poland: [ESlint, Prettier, Husky - YouTube](https://www.youtube.com/watch?v=aXCkPGueaGY&list=PLvFBbkSgL1u7Bco8ewGnWeZpjRH-bHC_7&index=3&t=302s)
+
 ## Useful sites
 
 - [Codepen.io](https://codepen.io/pen/?editors=0012)
 - [Scrimba.com](https://scrimba.com/)
 - [codewars](https://www.codewars.com/users/AdamCegielka)
-- [GitHub](https://github.com/LinkedInLearning/javascript-essential-training-2832077)
 
 ### Author
 
