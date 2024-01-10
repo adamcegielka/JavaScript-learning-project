@@ -79,6 +79,9 @@ The primary goal of this repository is to track my progress in learning JavaScri
 - add file to project `.prettierignore` :
 
 ```javascricpt
+node_modules/
+package.json
+package-lock.json
 README.md
 ```
 
@@ -93,6 +96,8 @@ README.md
     "endOfLine": "lf"
 }
 ```
+
+- Linking Prettier with ESLint `npm install --save-dev eslint-config-prettier`
 
 ## Tutorials
 
