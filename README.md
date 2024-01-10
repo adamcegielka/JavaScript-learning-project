@@ -33,7 +33,7 @@ The primary goal of this repository is to track my progress in learning JavaScri
   └── README.md
 ```
 
-## Tools and Plugins:
+## Tools and Plugins
 
 - Software [VS Code IDE installed](https://code.visualstudio.com/)
 - VS Code plugins installed:
@@ -46,7 +46,7 @@ The primary goal of this repository is to track my progress in learning JavaScri
     - [GitHub Actions](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-github-actions) - used for automating workflows, which can include testing, building, and deploying JavaScript applications.
     - [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) - allows for a real-time preview of web pages, making it easier to see the effects of code changes instantly.
 
-## Setup Instructions:
+## Setup Instructions
 
 1. Creating a repository on GitHub
 - create new project whit **JavaScript-learning-project** name
@@ -54,7 +54,7 @@ The primary goal of this repository is to track my progress in learning JavaScri
   - `git branch -m master main`
   - `git add .`
   - `git commit -m "feat: create a project"`
-  - `git push origin main`
+- create new repository on GitHub `JavaScript-learning-project`
 - push an existing repository from the command line:
   - `git remote add origin https://github.com/adamcegielka/JavaScript-learning-project.git`
   - `git branch -M main`
@@ -93,7 +93,7 @@ README.md
 }
 ```
 
-## Tutorials:
+## Tutorials
 
 - [w3schools](https://my-learning.w3schools.com/tutorial/js)
 - [The Modern JavaScript Tutorial](https://javascript.info/)
@@ -113,7 +113,7 @@ README.md
 - :poland: [Praktyczny kurs JavaScript od podstaw - Udemy](https://www.udemy.com/course/praktyczny-kurs-javascript/)
 - :poland: [10 projektów w czystym JavaScript - Udemy](https://www.udemy.com/course/10-projektow-w-czystym-javascript-cz-1/learn/lecture/18119975?start=0#overview)
 
-## Useful sites:
+## Useful sites
 
 - [Codepen.io](https://codepen.io/pen/?editors=0012)
 - [Scrimba.com](https://scrimba.com/)
