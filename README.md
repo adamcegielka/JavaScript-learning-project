@@ -66,7 +66,7 @@ The primary goal of this repository is to track my progress in learning JavaScri
 - configuration `npm init @eslint/config`  
 - add prettier in `.eslintrc.json` :
 
-```javascript
+```json
 "extends": [
     "eslint:recommended",
     "plugin:@typescript-eslint/recommended",
@@ -87,7 +87,7 @@ README.md
 
 - add Prettier rule `.prettierrc.json` :
 
-```javascript
+```json
 {
     "bracketSpacing": true,
     "semi": true,
@@ -97,7 +97,15 @@ README.md
 }
 ```
 
-- Linking Prettier with ESLint `npm install --save-dev eslint-config-prettier`
+- linking Prettier with ESLint `npm install --save-dev eslint-config-prettier`
+- add scripts in `package.json` :
+
+```json
+  "scripts": {
+    "prettier": "npx prettier --write .",
+    "lint": "eslint . --fix --max-warnings=0"
+  },
+```
 
 ## Tutorials
 
