@@ -1,0 +1,15 @@
+{
+  "name": "javascript-learning-project",
+  "version": "1.0.0",
+  "description": "Learning and mastering JavaScript",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "learning",
+    "javascript"
+  ],
+  "author": "Adam Cegielka",
+  "license": "ISC"
+}

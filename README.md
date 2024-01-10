@@ -61,6 +61,7 @@ The primary goal of this repository is to track my progress in learning JavaScri
   - `git push -u origin main`
 
 2. Installation ESLint
+- project initialization `npm init`
 - install `npm install eslint --save-dev`  
 - configuration `npm init @eslint/config`  
 - add prettier in `.eslintrc.json` :
