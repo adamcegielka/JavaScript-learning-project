@@ -111,7 +111,8 @@ README.md
 ```json
   "scripts": {
     "prettier": "npx prettier --write .",
-    "lint": "eslint . --fix --max-warnings=0"
+    "lint:check": "eslint . --max-warnings=0",
+    "lint:fix": "eslint . --fix"
   },
 ```
 
