@@ -66,6 +66,7 @@ The primary goal of this repository is to track my progress in learning JavaScri
 - project initialization `npm init`
 - install `npm install eslint --save-dev`  
 - configuration `npm init @eslint/config`  
+- install plugin `npm install @typescript-eslint/eslint-plugin@latest --save-dev`
 - add prettier in `.eslintrc.json` :
 
 ```json
