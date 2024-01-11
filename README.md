@@ -29,6 +29,7 @@ The primary goal of this repository is to track my progress in learning JavaScri
   ├── .eslintrc.json
   ├── .gitignore
   ├── .prettierignore
+  ├── .prettierrc-lock.json
   ├── .prettierrc.json
   └── README.md
 ```
