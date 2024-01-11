@@ -115,7 +115,7 @@ README.md
   },
 ```
 
-
+- install react `npm install react`
 
 ## Tutorials
 
