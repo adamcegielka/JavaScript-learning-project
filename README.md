@@ -71,10 +71,15 @@ The primary goal of this repository is to track my progress in learning JavaScri
 
 ```json
 "extends": [
-    "eslint:recommended",
-    "plugin:@typescript-eslint/recommended",
-    "prettier"
+  "airbnb",
+  "eslint:recommended",
+  "plugin:@typescript-eslint/recommended",
+  "prettier"
 ],
+"rules": {
+  "no-console": "off",
+  "no-alert": "off"
+}
 ```
 
 3. Installation Prettier
