@@ -100,7 +100,7 @@ README.md
     "bracketSpacing": true,
     "semi": true,
     "singleQuote": true,
-    "tabWidh": 2,
+    "tabWidth": 2,
     "endOfLine": "lf"
 }
 ```
