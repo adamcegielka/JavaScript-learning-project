@@ -141,6 +141,10 @@ README.md
 
 <br>
 
+- :poland: [JavaScript, przykładowe zadania na rozmowie technicznej - YouTube](https://www.youtube.com/watch?v=66Bv86S0G4A);
+
+<br>
+
 - :poland: [ESLint, Prettier i VS Code - YouTube](https://www.youtube.com/watch?v=u2yUxhzpht4)
 - :poland: [ESlint, Prettier, Husky - YouTube](https://www.youtube.com/watch?v=aXCkPGueaGY&list=PLvFBbkSgL1u7Bco8ewGnWeZpjRH-bHC_7&index=3&t=302s)
 
