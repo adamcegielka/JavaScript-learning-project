@@ -1,5 +1,15 @@
 console.log('JavaScript Variables');
 
+/*
+console.log(test); // undefined
+
+{
+  var test = 'Some text';
+  console.log(test); // Some text
+}
+console.log(test); // Some text
+*/
+
 let a = 4;
 let b = 3;
 let z = a + b;
