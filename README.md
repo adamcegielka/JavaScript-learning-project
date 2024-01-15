@@ -25,13 +25,13 @@ The primary goal of this repository is to track my progress in learning JavaScri
   ├── exercises
   │   └── .gitkeep
   ├── projects
-  │   └── project_01
-  │       └── .gitkeep
+  │   └── project_01_browser
   ├── .eslintrc.json
   ├── .gitignore
   ├── .prettierignore
-  ├── .prettierrc-lock.json
   ├── .prettierrc.json
+  ├── package-lock.json
+  ├── package.json
   └── README.md
 ```
 
