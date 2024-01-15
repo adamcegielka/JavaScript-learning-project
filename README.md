@@ -17,6 +17,8 @@ The primary goal of this repository is to track my progress in learning JavaScri
   ├── .github
   │   └── workflows
   │       └── .gitkeep
+  ├── .vscode
+  │       └── launch.json
   ├── 01_basics
   │   ├── html
   │   │   └── files:html
