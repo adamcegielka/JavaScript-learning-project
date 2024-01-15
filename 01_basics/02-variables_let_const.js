@@ -1,9 +1,12 @@
 console.log('JavaScript Variables');
 
-const a = 4;
-const b = 3;
-const z = a + b;
-console.log(z); // 7
+let a = 4;
+let b = 3;
+let z = a + b;
+a = 15;
+b = 6;
+z = a - b;
+console.log(z); // 9
 
 let x = 10;
 console.log(x); // 10
