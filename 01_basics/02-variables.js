@@ -21,7 +21,7 @@ const decimal = 21.102;
 console.log(integer, 'and', decimal); // 15 'and' 21.102
 
 const text = 'Hello World!';
-console.log(`Text: ${  text}`); // Text: Hello World!
+console.log(`Text: ${text}`); // Text: Hello World!
 
 // multiline
 const multiline = `line 1
