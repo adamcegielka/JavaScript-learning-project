@@ -19,11 +19,12 @@ The primary goal of this repository is to track my progress in learning JavaScri
   │       └── .gitkeep
   ├── 01_basics
   │   └── html
-  │   └── files.js
+  │       └── files:html
+  │   └── files:js
   ├── 02_advanced_topics
-  │   └── .gitkeep
+  │   └── files:js
   ├── exercises
-  │   └── .gitkeep
+  │   └── files:js
   ├── projects
   │   └── project_01_browser
   ├── .eslintrc.json
