@@ -18,8 +18,8 @@ The primary goal of this repository is to track my progress in learning JavaScri
   │   └── workflows
   │       └── .gitkeep
   ├── 01_basics
-  │   └── html
-  │       └── files:html
+  │   ├── html
+  │   │   └── files:html
   │   └── files:js
   ├── 02_advanced_topics
   │   └── files:js
