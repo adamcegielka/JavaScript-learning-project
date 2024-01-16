@@ -1,6 +1,4 @@
-console.log('JavaScript Operators');
-
-// Arithmetic Operators
+console.log('JavaScript Arithmetic Operators');
 
 let a = 3;
 let b = 1;
