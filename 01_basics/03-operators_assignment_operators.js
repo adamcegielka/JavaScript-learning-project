@@ -1,6 +1,4 @@
-console.log('JavaScript Operators');
-
-// Assignment Operators
+console.log('JavaScript Assignment Operators');
 
 let a = 9;
 let b = 4;
