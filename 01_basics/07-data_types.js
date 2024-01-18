@@ -1,4 +1,4 @@
-// Data Types
+console.log('Data Types');
 
 const a = 12;
 console.log(typeof a); // number
