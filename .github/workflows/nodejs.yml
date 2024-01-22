@@ -14,6 +14,6 @@ jobs:
         node-version: 18
     - name: Run JavaScript files in 01_basics
       run: |
-        for file in 01_basics/*.js; do
+        for file in exercises/*.js; do
           node "$file"
         done
