@@ -1,4 +1,4 @@
-name: Run JavaScript Examples
+name: Run JavaScript Exercises
 
 on: workflow_dispatch
 
