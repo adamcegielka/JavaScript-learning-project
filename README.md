@@ -131,6 +131,7 @@ README.md
 - [Modern JavaScript Tutorial - YouTube](https://www.youtube.com/watch?v=iWOYAxlnaww&list=PL4cUxeGkcC9haFPT7J25Q9GRB_ZkFrQAc)
 - [JavaScript Unit Testing, The Practical Guide - Udemy](https://www.udemy.com/course/javascript-unit-testing-the-practical-guide/)
 - [Repository for the Linkedin Learning course: JavaScript Essential Training - GitHub](https://github.com/LinkedInLearning/javascript-essential-training-2832077)
+- [Document Object Model (DOM)](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model)
   
 <br>
 
