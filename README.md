@@ -16,7 +16,7 @@ The primary goal of this repository is to track my progress in learning JavaScri
 /JavaScript-learning-project
   ├── .github
   │   └── workflows
-  │       └── .gitkeep
+  │       └── nodejs_exercises.yml
   ├── .vscode
   │       └── launch.json
   ├── 01_basics
