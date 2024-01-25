@@ -81,3 +81,7 @@ li {
 li:last-child {
   border-bottom: 0;
 }
+
+ul li {
+  cursor: pointer;
+}
