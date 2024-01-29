@@ -135,6 +135,10 @@ README.md
   
 <br>
 
+- [JavaScript Unit Testing, The Practical Guide - Udemy](https://www.udemy.com/course/javascript-unit-testing-the-practical-guide/)
+  
+<br>
+
 - :poland: [Kurs JavaScript dla superbohaterów](https://kursjs.pl/)
 - :poland: [Kurs JavaScript - YouTube](https://www.youtube.com/watch?v=Y5NpcJOM99A&list=PL6aekdNhY7DAnIsg_OoPaxB5kJV0pUJ99)
 - :poland: [Kurs JavaScript Pasja informatyki - YouTube]()
