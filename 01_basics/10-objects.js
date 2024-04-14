@@ -30,6 +30,8 @@ const bankAccount = {
 };
 
 console.log(bankAccount);
+console.log(bankAccount.lastName);
+console.log(bankAccount.accountBalance);
 
 bankAccount.country = 'Poland';
 console.log(bankAccount);
