@@ -11,7 +11,7 @@
             "skipFiles": [
                 "<node_internals>/**"
             ],
-            "program": "${workspaceFolder}\\01_basics\\09-arrow_function.js"
+            "program": "${workspaceFolder}\\01_basics\\10-objects.js"
         },
         {
             "type": "node",
